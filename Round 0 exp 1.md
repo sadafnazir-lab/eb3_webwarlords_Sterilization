@@ -49,7 +49,6 @@ AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar P
 | **SrNo** | **Name** | **Faculty or Student** | **Department** | **Institute** | **Email id** |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Sadaf Nazir | Faculty | Food Technology | I.E.T., Bundelkhand University, Jhansi | sadafnazirwani@yahoo.in |
-| --- | --- | --- | --- | --- | --- |
 | 2 | Shivangi Agarwal | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | shivangishivi2899@gmail.com |
 | 3 | Kunika Mahajan | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | prachimahajan4@gmail.com |
 | 4 | Tanveer uddin | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | tanveeruddini.nizami9@gmail.com |
