@@ -6,7 +6,6 @@
 | **Discipline** | **Food Technology** |
 | --- | --- |
 | **Lab** | **Food Microbiology** |
-| --- | --- |
 | **Experiment** | **1. Preparation and sterilization of media and glass ware for microbial counts.** |
 
 **1.**** Focus Area : Name of the Focus area as per handout**
