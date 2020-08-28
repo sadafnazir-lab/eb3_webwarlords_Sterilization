@@ -1,11 +1,9 @@
 # Round 0
 
 | **Discipline** | **Food Technology** |
-| --- | --- |
 | **Lab** | **Food Microbiology (KFT 352)** |
-| --- | --- |
 | **Experiment** | **1. Preparation and sterilization of media and glass ware for microbial counts.**
- |
+
 
 **About the Lab(objective):**
 
@@ -28,9 +26,7 @@ Food Technology, Food Microbiology
 AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar Pradesh
 
 | **Name of Developer** | **Sadaf Nazir** |
-| --- | --- |
 | **Institute** | I.E.T., Bundelkhand University, Jhansi |
-| --- | --- |
 | **Email id** | [**sadafnazirwani@yahoo.in**](mailto:sadafnazirwani@yahoo.in) |
 | **Department** | Food Technology |
 
@@ -38,18 +34,14 @@ AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar P
 **Mentor Details:**
 
 | **Mentored by** | **Mr Senthil Subramanian** |
-| --- | --- |
 | **Institute** | **Hindustan College of Science & Technology Mathura** |
-| --- | --- |
 | **Email id** | [tss.senthil.hcst@sgei.org](mailto:tss.senthil.hcst@sgei.org) |
 | **Department** | Name of the department |
 
 **Contributors List:**
 
 | **SrNo** | **Name** | **Faculty or Student** | **Department** | **Institute** | **Email id** |
-| --- | --- | --- | --- | --- | --- |
 | 1 | Sadaf Nazir | Faculty | Food Technology | I.E.T., Bundelkhand University, Jhansi | sadafnazirwani@yahoo.in |
-| --- | --- | --- | --- | --- | --- |
 | 2 | Shivangi Agarwal | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | shivangishivi2899@gmail.com |
 | 3 | Kunika Mahajan | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | prachimahajan4@gmail.com |
 | 4 | Tanveer uddin | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | tanveeruddini.nizami9@gmail.com |
