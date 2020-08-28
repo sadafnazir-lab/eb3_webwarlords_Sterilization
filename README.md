@@ -44,7 +44,7 @@ AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar P
 | **Institute** | **Institute name** |
 | --- | --- |
 | **Email id** | [tss.senthil.hcst@sgei.org](mailto:tss.senthil.hcst@sgei.org) |
-| **Department** | Name of the department |
+| **Department** | Hindustan College of Science & Technology Mathura |
 
 **Contributors List:**
 
