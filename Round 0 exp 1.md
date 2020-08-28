@@ -39,7 +39,7 @@ AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar P
 
 | **Mentored by** | **Mr Senthil Subramanian** |
 | --- | --- |
-| **Institute** | **Institute name** |
+| **Institute** | **Hindustan College of Science & Technology Mathura** |
 | --- | --- |
 | **Email id** | [tss.senthil.hcst@sgei.org](mailto:tss.senthil.hcst@sgei.org) |
 | **Department** | Name of the department |
