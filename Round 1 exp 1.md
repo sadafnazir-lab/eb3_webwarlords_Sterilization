@@ -17,17 +17,10 @@
 
 | **Sr. No** | **Learning Objective** | **Cognitive Level** |
 | --- | --- | --- |
-| 1. | Students will be able to:
- Prepare media for growth of bacteria
- | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
- |
-| --- | --- | --- |
-| 2. | Students will be able to:Learns basics of autoclave
- | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
-| 3. | Students will be able to:
- Sterilize glassware | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
-| 4. | User will be able to:
- Sterilize media | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
+| 1. | Students will be able to:Prepare media for growth of bacteria | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php)|
+| 2. | Students will be able to:Learns basics of autoclave | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
+| 3. | Students will be able to:Sterilize glassware | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
+| 4. | User will be able to: Sterilize media  | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
 
 **3.Instructional Strategy**
 
@@ -92,7 +85,6 @@ Prepare media from nutrient agar and Learns basics of autoclave
 | **Sr.No** | **What Students will do?** | **What Simulator will do?** | **Purpose of the task** |
 | --- | --- | --- | --- |
 | 1. | The simulator gives a visual display of glasswares, almunium foil media, laminar air flow and auto clave | Click on the &#39;simulation tab&#39; | Perform experiment |
-| --- | --- | --- | --- |
 | 2. | To prepare media, glassware and media should be selected | Click to rehydrate media | To prepare media |
 | 3. | Wrap glassware and media | Click on the &#39;almunium foil and glassware/media to wrap | To cover and protect from contamination |
 | 4. | Place in autoclave | Click on autoclave to open and set time temperature | To sterilize |
