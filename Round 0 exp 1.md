@@ -30,7 +30,6 @@ AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar P
 | **Name of Developer** | **Sadaf Nazir** |
 | --- | --- |
 | **Institute** | I.E.T., Bundelkhand University, Jhansi |
-| --- | --- |
 | **Email id** | [**sadafnazirwani@yahoo.in**](mailto:sadafnazirwani@yahoo.in) |
 | **Department** | Food Technology |
 
