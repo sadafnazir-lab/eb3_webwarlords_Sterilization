@@ -3,9 +3,7 @@
 | **Discipline** | **Food Technology** |
 | --- | --- |
 | **Lab** | **Food Microbiology (KFT 352)** |
-| --- | --- |
-| **Experiment** | **1. Preparation and sterilization of media and glass ware for microbial counts.**
- |
+| **Experiment** | **1. Preparation and sterilization of media and glass ware for microbial counts.** |
 
 **About the Lab(objective):**
 
