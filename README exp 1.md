@@ -1,12 +1,11 @@
-# webwarlords
 # Round 0
 
 | **Discipline** | **Food Technology** |
 | --- | --- |
 | **Lab** | **Food Microbiology (KFT 352)** |
-| **Experiment** | **1. Preparation and sterilization of media and glass ware for microbial counts.** |
-| | **2. Determination of Standard Plate Count (SPC) in natural and/or processed foods.** |
-| | **3. Simple and differential staining of microorganisms and their examination.** |
+| --- | --- |
+| **Experiment** | **1. Preparation and sterilization of media and glass ware for microbial counts.**
+ |
 
 **About the Lab(objective):**
 
@@ -14,9 +13,7 @@ The microbiology lab deals with the study of microbes. The lab involves learning
 
 **About the Experiment:**
 
-1. Study the sterilization techniques used for media and glassware&#39;s
-2. Determination of the contamination of various food
-3. Staining the microbes to analyze their structure and prdict their toxicity
+Study the sterilization techniques used for media and glassware&#39;s and create aseptic conditions
 
 **Target Audience:**
 
@@ -31,6 +28,7 @@ Food Technology, Food Microbiology
 AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar Pradesh
 
 | **Name of Developer** | **Sadaf Nazir** |
+| --- | --- |
 | **Institute** | I.E.T., Bundelkhand University, Jhansi |
 | --- | --- |
 | **Email id** | [**sadafnazirwani@yahoo.in**](mailto:sadafnazirwani@yahoo.in) |
@@ -41,17 +39,18 @@ AKTU, Lucknow, Uttar Pradesh and I.E.T., Bundelkhand University, Jhansi, Uttar P
 
 | **Mentored by** | **Mr Senthil Subramanian** |
 | --- | --- |
-| **Institute** | **Hindustan College of Science & Technology Mathura** |
+| **Institute** | **Institute name** |
 | --- | --- |
 | **Email id** | [tss.senthil.hcst@sgei.org](mailto:tss.senthil.hcst@sgei.org) |
-| **Department** | - |
+| **Department** | Name of the department |
 
 **Contributors List:**
 
 | **SrNo** | **Name** | **Faculty or Student** | **Department** | **Institute** | **Email id** |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Sadaf Nazir | Faculty | Food Technology | I.E.T., Bundelkhand University, Jhansi | sadafnazirwani@yahoo.in |
-| 2 | Shivangi Agarwal | Student | Food Technology  |I.E.T., Bundelkhand University, Jhansi | shivangishivi2899@gmail.com |
+| --- | --- | --- | --- | --- | --- |
+| 2 | Shivangi Agarwal | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | shivangishivi2899@gmail.com |
 | 3 | Kunika Mahajan | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | prachimahajan4@gmail.com |
-| 4 | Tanveer uddin | Student | Food Technology |I.E.T., Bundelkhand University, Jhansi | tanveeruddini.nizami9@gmail.com |
+| 4 | Tanveer uddin | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | tanveeruddini.nizami9@gmail.com |
 | 5 | Yadvendra Pratap Singh | Student | Food Technology | I.E.T., Bundelkhand University, Jhansi | yadvendra11ps@gmail.com |
