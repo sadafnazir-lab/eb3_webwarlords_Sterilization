@@ -1,4 +1,3 @@
-# webwarlords
 # **Round 2**
 
 Experiment 1: Preparation and sterilization of media and glassware for microbial counts
