@@ -24,7 +24,7 @@ Sterlization
 
 Method: Laboratory Experiment
 
-Assessment Method: Submittive
+Assessment Method: Submmative
 
 Description: Step by step instructions are provided at each level in the simulator to make it more user friendly.
 
