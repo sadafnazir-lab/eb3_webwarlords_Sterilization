@@ -24,9 +24,9 @@ Sterlization
 
 Method: Laboratory Experiment
 
-Assessment Method: Formative assessment
+Assessment Method: Submittive
 
-Description: the sterilized glassware and media will be placed inside laminar air flow after washing glasswares, drying, preparing media and autoclaving.
+Description: Step by step instructions are provided at each level in the simulator to make it more user friendly.
 
 **4.Task &amp; Assessment Questions:**
 
