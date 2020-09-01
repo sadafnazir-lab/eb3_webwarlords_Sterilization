@@ -9,7 +9,7 @@
 
 **1.**** Focus Area : Name of the Focus area as per handout**
 
-1. Sterlization
+Sterlization
 
 **2.Learning Objectives and Cognitive Level**
 
@@ -33,7 +33,6 @@ Description: the sterilized glassware and media will be placed inside laminar ai
 | **Sr. No** | **Learning Objective** | **Task to be performed by the student in the simulator ** | ** Assessment Questions as per LO &amp; Task** |
 | --- | --- | --- | --- |
 | 1. | **Prepare media from nutrient agar and Learns basics of autoclave | Rehydrate nutrient agar and nutrient broth separately in conical flasksSet time, temperature and pressure for autoclaving | 1. Which of the following is used as a solidifying agent for media?A. PeptoneB. Beef extractC. Yeast extract **D. Agar**** 2. **Best method for getting pure culture is** a. Streak-plate **b. Agar slant c. Both a &amp; b d. None of these** 3. **Separation of a single colony is a. Pure-culturing** b. Isolation**c. Separation d. Both a and b |
-| --- | --- | --- | --- |
 | 2. | Wrap the almunium foils over glassware and media | Choose the glass ware required and cover them with almunium foils. Also cover the conical flask containing media. | 1. Media is prepared in 1. **Conical Flasks** 2. Volumetric Flasks 3. Beakers 4. Measuring cylinders 2. To transfer cultures from one place to another, the device used is a. **Slant** b. Needle c. Inoculation loop** d. Autoclave 
 | 3. | Sterilize glassware | And place the media and glassware in autoclave. Run the autoclave to sterilize. | 1. Which of the following equipments is used to sterilize media and glass wares?A. IncubatorB. Laminar air flow **C. Autoclave** D. Inoculum needle 
 | 4. | Sanitize Laminar air flow | Clean Laminar air flow with isopropyl alcohol and put UV light mode ON for 20 minutes | 1. UV lights destroys the \_\_\_\_\_\_ of bacteria 1. **DNA** 2. Histones 3. Ribosomes 4. Cellwall |
