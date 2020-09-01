@@ -42,8 +42,8 @@ Description: the sterilized glassware and media will be placed inside laminar ai
 
 | **Sr.No** | **What Students will do?** | **What Simulator will do?** | **Purpose of the task** |
 | --- | --- | --- | --- |
-| 1. | The simulator gives a visual display of glasswares, almunium foil media, laminar air flow and auto clave | Click on the &#39;simulation tab&#39; | Perform experiment |
-| 2. | To prepare media, glassware and media should be selected | Click to rehydrate media | To prepare media |
-| 3. | Wrap glassware and media | Click on the &#39;almunium foil and glassware/media to wrap | To cover and protect from contamination |
-| 4. | Place in autoclave | Click on autoclave to open and set time temperature | To sterilize |
-| 5. | Remove after sterlization | Click on laminar air flow to transfer the sterilized glassware and media. Unwrap and pour media | To complete sterilization |
+| 1. | The simulator gives a visual display of glasswares, laminar air flow and auto clave | Click on the &#39;simulation tab&#39; | Perform experiment |
+| 2. | To wassh glassware, prepare media, | Click to rehydrate media | To prepare media |
+| 3. | Autoclaving | Click on the &#39;almunium foil and glassware/media to wrap | To cover and protect from contamination |
+| 4. | Place in autoclave at set time and temperature | Click on autoclave to open and set time temperature | To sterilize |
+| 5. | Remove after sterlization | Click on laminar air flow to transfer the sterilized glassware and media.And pour media | To complete sterilization |
